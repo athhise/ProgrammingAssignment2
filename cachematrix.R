@@ -1,6 +1,5 @@
 ## Put comments here that give an overall description of what your
 ## functions do
-
 ###########################################################################
 # The function makeCacheMatrix takes as input a matrix then return back a # 
 # special matrix called SpecialMatrix.                                    #
